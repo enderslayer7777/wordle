@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Wordle
+### By EnderSlayer7777
 
 You can use the [editor on GitHub](https://github.com/enderslayer7777/wordle/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
